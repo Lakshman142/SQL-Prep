@@ -1,2 +1,2 @@
 # SQL-Prep
-All the problems I solved
+Different problems I solved
